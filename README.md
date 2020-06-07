@@ -3,7 +3,7 @@
 </p>
 
 <h1>Sobre</h1>
-<p>O Ecoleta é uma aplicação Web e Mobile para pessoas encontrarem pontos de coleta para items recicláveis</p>
+<p>O Ecoleta é uma aplicação Web e Mobile para pessoas encontrarem pontos de coleta para itens recicláveis</p>
 
 <p>A aplicação foi construída na trilha Booster da Next Level Week distribuída pela <a href="https://rocketseat.com.br/">Rocketseat</a>.</p>
 
